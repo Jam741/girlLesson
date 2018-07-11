@@ -1,4 +1,4 @@
-package com.ngls.girl;
+package com.ngls.girl.properties;
 
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
